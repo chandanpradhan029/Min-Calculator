@@ -1,6 +1,7 @@
 ## Calculator React App 
 
---Tech used : React , tailwind , html , css , js 
+## Tech used 
+React , tailwind , html , css , js 
 
 ## Link : 
 https://chandanpradhan029.github.io/Min-Calculator/
